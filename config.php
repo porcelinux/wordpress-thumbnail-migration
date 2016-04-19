@@ -1,13 +1,13 @@
 <?php
 
 # database user
-$db_user = '';
+$db_user = "";
 # database password
-$db_pass = '';
+$db_pass = "";
 # database name
-$db_name = '';
+$db_name = "";
 # mysql server name or address
-$db_srv  = '';
+$db_srv  = "";
 # the full path of the document root
 $siteroot = "" ;
 # directory (inside the document root) where to copy the thumbnails
